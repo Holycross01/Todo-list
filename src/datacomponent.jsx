@@ -32,7 +32,7 @@ const Datacomponent = ({
           value={input}
           className="bg-white outline-none w-[300px] flex-1 p-1 rounded-tl rounded-bl"
         />
-        <button className="bg-cyan-200 px-1 rounded-br rounded-tr">AddTask</button>
+        <button className="bg-cyan-200 p-1 rounded-br rounded-tr">AddTask</button>
       </form>
       <div className="space-x-2">
         <button
